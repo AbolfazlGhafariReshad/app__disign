@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">app disign</string>
+    <string name="logo_image">تصویر لوگو</string>
+    <string name="text_view">تست برنامه 1</string>
+    <string name="edittext" />
+    <string name="edit_text">لطفا نام کاربری خود را وارد کنید</string>
+</resources>
